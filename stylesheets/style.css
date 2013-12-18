@@ -671,7 +671,7 @@ header nav ul li .team {
   width: 960px;
   margin: 0 auto;
   overflow: hidden;
-  padding-bottom: 20px;
+  padding-bottom: 0 5px 20px;
 }
 /* line 317, ../sass/partials/_page.scss */
 #main #welcome h1, #main #creatinggroup h1 {
