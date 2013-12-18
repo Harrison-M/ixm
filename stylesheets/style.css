@@ -501,6 +501,7 @@ header nav ul li .team {
   bottom: 5px;
   right: 5px;
   display: block;
+  text-align: center;
 }
 
 /* line 177, ../sass/partials/_page.scss */
