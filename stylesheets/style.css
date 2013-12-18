@@ -481,11 +481,11 @@ header nav ul li .team {
   position: relative;
 }
 /* line 157, ../sass/partials/_page.scss */
-.code #main #sidebar .sidebox ul, .code #main #sidebar .sidebox button {
+.code #main #sidebar .sidebox ul, .code #main #sidebar .sidebox button, .sidebox a {
   margin: 5px;
 }
 /* line 162, ../sass/partials/_page.scss */
-.code #main #sidebar button {
+.code #main #sidebar a {
   border: 1px solid #020202;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
@@ -500,6 +500,7 @@ header nav ul li .team {
   position: absolute;
   bottom: 5px;
   right: 5px;
+  display: block;
 }
 
 /* line 177, ../sass/partials/_page.scss */
